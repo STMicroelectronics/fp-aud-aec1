@@ -2,6 +2,15 @@
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/fp-aud-aec1.svg?color=brightgreen)
 
+> [!NOTE]
+> ## **FP-AUD-AEC1** software package is not available anymore in this repository
+> 
+> In this repository, the * `./Middlewares/ST/STM32_Audio` middleware libraries and the related projects (demos, applications, and examples) are **not available** here as they (the middleware libraries) are subject to some restrictive license terms requiring the user's approval via a "click thru" procedure.
+> 
+> If needed, they can be found inside the full firmware package available on our website `st.com` and downloadable from [here](https://www.st.com/en/embedded-software/fp-aud-aec1.html). You will be prompted to login or to register in case you have no account.
+
+## Overview
+
 **FP-AUD-AEC1** STM32Cube Function Pack for Acoustic Echo Cancellation is a specific
 example fully focused on Acoustic Echo Cancellation and provides an implementation 
 of a USB smart speaker use case with microphone
